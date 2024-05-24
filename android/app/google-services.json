@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "318135581367",
+    "project_id": "fitzz-app",
+    "storage_bucket": "fitzz-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318135581367:android:7a52a6eb417ebc75e16b32",
+        "android_client_info": {
+          "package_name": "com.example.fitness_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoH0_Mv1zMyRXFAGkYAwYA4-iaVqmwLqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
